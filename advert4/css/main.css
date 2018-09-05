@@ -1,0 +1,143 @@
+ body{
+	background-color: #f4f8f6;
+	font-family: raleway;
+
+}
+
+header{
+	background: -webkit-linear-gradient(top left,#4386bb,#615fa7,#615fa7);
+	color: #fff;
+	padding: 15px 20px;
+	min-height: 150px;
+}
+.holder{
+	float:right;
+	border-radius: 50%;
+	padding-right:  10px;
+}
+.name{
+	float:right;
+	line-height: 200%;
+	padding-left:20px;
+}
+nav{
+	width: 203.6px;
+	background-color: #ffffff;
+	float: left;
+	height: 700px;
+	bottom: 0px;
+	padding-right:  20px;
+	margin-right: 70px;
+
+}
+nav ul{
+	list-style:none;
+	padding-top: 23px;
+}
+nav ul li{
+	text-decoration: none;
+	display: block;
+}
+li{
+	margin-top: 30px;
+}
+span{
+	padding-left: 20px;
+}
+.discount{
+	background-color: #fff;
+	margin-left: 213.6px;
+	width: 900px;
+	min-height: 45px;
+	padding: 5px;
+	padding-left: 30px;
+	padding-right: 15px;
+	line-height: 200%;
+	border-width: 1px solid black;
+
+}
+.discount button{
+	text-transform: uppercase;
+	float: right;
+	width: 76px;
+	min-height: 29px;
+	margin-left: 10px;
+	padding: 5px;
+	margin-top: 10px;
+	font-size: 10px;
+	outline: none;
+
+}
+.container{
+	margin-left: 40px;
+	margin:0 auto;
+	width: 734px;
+	margin-top: 45px;
+
+	background-color:#fff;
+	text-align: center;
+	border: 0.3px solid #979797;
+	padding-bottom: 5px;
+
+}
+h3{
+	font-size: 22px;
+	color: #504C4C;
+	padding-top: 36px;
+}
+p{
+	color: #504C4C;
+	font-size: 16px;
+}
+.content{
+	width: 366.48px;
+	background-color:#fff;
+	margin: 0 auto;
+	font-size: 22px;
+
+}
+.content i{
+	margin-top: 20px;
+	color: #fff;
+	width: 84px; 
+	height: 40px;
+	line-height: 200%;
+	border-radius: 4px;
+}
+.down{
+	margin: 0 auto;
+	background-color:#fff;
+	padding: 4px;
+	padding-bottom: 60px;
+}
+
+.link{
+	float: left;
+	height: 35px;	
+	width: 475px;	
+	border: 0.5px solid #979797;	
+	opacity: 0.49;	
+	border-radius: 8px;
+	line-height: 200%;
+	margin-right: 10px;
+	margin-left: 100px;
+}
+button{
+	height: 35px;	
+	width: 91px;	
+	border-radius: 4px;	
+	background-color: #07A3BA;	
+	line-height: 200%;
+	color: #fff;
+	border: 0.5px solid #979797;
+}
+.pr{
+	border-radius: 4px;
+	float: right;
+	background-color: #07A3BA;
+	color: #fff;
+	text-align: center;
+	width: 28px;
+	height: 14px; 
+	margin-left:20px;
+}
